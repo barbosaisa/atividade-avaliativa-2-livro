@@ -1,0 +1,47 @@
+body{
+    
+    background-color: rgb(188, 216, 240);
+    width: 60%;
+    margin: 0 auto;
+    box-shadow: 90cm;
+    
+}
+
+.titulo{
+    font-size: 120%;
+    text-align:center;
+    font-family: monospace;
+    color: rgb(66, 37, 94);
+}
+.subtitulo{
+    font-family: monospace;
+    font-size: 77%;
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    width: 6cm;
+    height: 6cm;
+    margin: 2%;
+}
+.text{
+    font-size: 152%;
+}
+html, body {
+    margin: 100;
+    padding: 0;
+}
+.titulo2{
+    font-size: 115%;
+    text-align:center;
+    font-family: monospace;
+}
+.text2{
+    font-size: 152%;
+}
+
+form{
+background-color: rgb(15, 60, 87);
+text-align:right;
+
+}
